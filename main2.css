@@ -1,0 +1,127 @@
+body {
+    background-color: rgba(5, 230, 230, 0.801);
+}
+
+.container {
+    display: flex;
+    background-color: rgba(5, 230, 230, 0.801);
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+
+}
+
+.one {
+    display: flex;
+    background-color:rgba(134, 135, 211, 0.5) ;
+    margin: 0%;
+    align-content: center;
+    justify-content: space-evenly;
+    border: solid black;
+}
+
+.nav {
+    color: slateblue;   
+    margin: 1%;
+    
+}
+
+.con {
+    color: slateblue;
+    margin: 1%; 
+
+}
+
+.two {
+    display: flex;
+    background-color:rgba(5, 230, 230, 0.801);
+    margin: 0%;
+    height: 50%;
+    width: 100%;
+    justify-content:  center;
+    
+}
+
+.three {
+    display: flex;
+    height: 60%;
+    width: 100%;
+    justify-content: space-around;
+    align-content:space-between;
+    flex-wrap: wrap;
+}
+
+.cake {
+    display: flex;
+   
+}
+
+.ent {
+    display: flex;
+    
+
+}
+
+.buffet {
+    color: purple;
+    margin: 1%;
+    
+}
+
+.bart {
+    color: plum;
+    margin: 1%;
+    margin: 1%;
+    flex-direction: column;
+}
+
+.bigbox {
+    display: flex;
+    height: 80%;
+    width: 100%;
+    
+}
+
+.pic {
+    display: flex;
+    justify-content: right;
+    outline: 1%;
+    outline: black;
+
+  
+}   
+
+.pbox {
+    display: flex;
+    height: 60%;
+    width: 100%;
+    flex-wrap: wrap;
+    
+}
+
+
+.pcake {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin: 5%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: black ;
+    
+    
+}
+
+.pbuff {
+    display: flex;
+}
+    
+
+
+.pfp {
+    display: flex;
+}
+
+.pent {
+    display: flex;
+    }
